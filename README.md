@@ -4,12 +4,10 @@ Java programlama dili kullanılarak geliştirilmiş basit bir yapılacaklar list
 
 ## Özellikler
 
-- Görev ekleme
 - Görevleri listeleme
-- Görevleri tamamlama
 - Görevleri önceliklerine göre otomatik sıralama
 - Tamamlanan görevleri öncelik sıralamasının dışında tutma
-- Görevleri dosyada saklama
+
 
 ## Kullanılan Teknolojiler
 
